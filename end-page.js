@@ -29,5 +29,5 @@ saveHighScore = e => {
     console.log(highScores);
     
 
-    window.location.assign("");
+    window.location.assign("/");
 };
