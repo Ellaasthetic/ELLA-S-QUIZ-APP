@@ -41,7 +41,7 @@
 
 .hud-prefix {
     text-align: center;
-    font-size: 2rem;
+    font-size: 1rem;
 }
 
 .hud-main-text {
@@ -79,6 +79,3 @@
     }
 }
 
-h1 {
-    font-size: 1rem;
-}
