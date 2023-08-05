@@ -26,6 +26,13 @@
     width: 100%;
 }
 
+@media only screen and (max-width: 600px) {
+    .main-nav {
+        font-size: 0.5em;
+        padding: 0;
+    }
+}
+
 .correct {
     background-color: #28a745;
 }
@@ -41,7 +48,7 @@
 
 .hud-prefix {
     text-align: center;
-    font-size: 1rem;
+    font-size: 2rem;
 }
 
 .hud-main-text {
