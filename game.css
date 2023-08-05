@@ -27,7 +27,7 @@
 }
 
 @media only screen and (max-width: 600px) {
-    .container {
+    #game {
         font-size: 16px;
         padding: 0;
         width:100%;
